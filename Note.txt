@@ -1,0 +1,9 @@
+Understanding different Test outcomes in Serenity BDD
+Creating folder structure hierarchy to generate requirements
+Using @Title annotations to provide meaningful names
+Prioritizing Test Order in JUNIT
+About @Steps @Step annotations
+Create Reusable Request & Response Specifications
+Building data driven test model using using Serenity BDD
+(Build a data driven test model using the features provided by the Serenity BDD framework)
+Learn how to create mock data using an external service

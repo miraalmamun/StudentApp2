@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.studentapp.junit.studentinfo.FirstSerenityTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.216 sec <<< FAILURE! - in com.studentapp.junit.studentinfo.FirstSerenityTest
+fileDoesNotExist(com.studentapp.junit.studentinfo.FirstSerenityTest)  Time elapsed: 1.152 sec  <<< ERROR!
+java.io.FileNotFoundException: E:\file.txt (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileReader.<init>(FileReader.java:72)
+	at com.studentapp.junit.studentinfo.FirstSerenityTest.fileDoesNotExist(FirstSerenityTest.java:66)
+

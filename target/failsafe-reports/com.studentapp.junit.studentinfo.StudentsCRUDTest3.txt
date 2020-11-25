@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.studentapp.junit.studentinfo.StudentsCRUDTest3
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.557 sec - in com.studentapp.junit.studentinfo.StudentsCRUDTest3

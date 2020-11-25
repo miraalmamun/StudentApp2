@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.studentapp.junit.studentinfo.FirstSerenityTest" skipped="1" tests="1" time="1.17" timestamp="2020-11-24 09:53:50"><testcase classname="com.studentapp.junit.studentinfo.FirstSerenityTest" name="File does not exist"><compromised message="E:\file.txt (The system cannot find the path specified)" type="java.io.FileNotFoundException">E:\file.txt (The system cannot find the path specified)</compromised><system-err>E:\file.txt (The system cannot find the path specified)&#13;
+com.studentapp.junit.studentinfo.FirstSerenityTest.fileDoesNotExist(FirstSerenityTest.java:66)&#13;
+</system-err></testcase></testsuite>

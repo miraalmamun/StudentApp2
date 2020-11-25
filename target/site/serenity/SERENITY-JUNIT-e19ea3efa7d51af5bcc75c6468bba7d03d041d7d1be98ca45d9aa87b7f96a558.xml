@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.studentapp.junit.studentinfo.CreateStudentDataDrivenTest" skipped="0" tests="10" time="6.53" timestamp="2020-11-24 09:53:45"><testcase classname="com.studentapp.junit.studentinfo.CreateStudentDataDrivenTest" name="Datan Driven test for adding multiple students to the Student App"/></testsuite>

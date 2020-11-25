@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Students CRUD test3","This test will create a new student","SUCCESS","2020-11-24T21:53:51.67-05:00[America/New_York]","0.0","1.28"
+"Students CRUD test3","Varify if the student was added to the application","SUCCESS","2020-11-24T21:53:52.956-05:00[America/New_York]","0.0","1.72"
+"Students CRUD test3","Update thie user information and verify the update information","SUCCESS","2020-11-24T21:53:54.683-05:00[America/New_York]","0.0","1.43"
+"Students CRUD test3","Delete the student and varify the student is deleted","SUCCESS","2020-11-24T21:53:56.117-05:00[America/New_York]","0.0","0.98"
